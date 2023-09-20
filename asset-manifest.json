@@ -1,13 +1,34 @@
 {
   "files": {
     "main.css": "/house_progect/static/css/main.00a4faf8.css",
-    "main.js": "/house_progect/static/js/main.c8ba8d01.js",
+    "main.js": "/house_progect/static/js/main.3caf493c.js",
+    "static/media/Layer 0 1.png": "/house_progect/static/media/Layer 0 1.3fb1426ce879bda0eed0.png",
+    "static/media/france3.jpg": "/house_progect/static/media/france3.6a6b0d39dcc2b6f24aa6.jpg",
+    "static/media/france5.jpg": "/house_progect/static/media/france5.3117c26d7187bf7777e5.jpg",
+    "static/media/france2.jpg": "/house_progect/static/media/france2.288c9a04bd628faaf40e.jpg",
+    "static/media/france6.jpg": "/house_progect/static/media/france6.624afebec171bc100f5c.jpg",
+    "static/media/eng3.jpg": "/house_progect/static/media/eng3.be33f5e62976aebf585a.jpg",
+    "static/media/03.jpg": "/house_progect/static/media/03.c4321b0752c4c0785b79.jpg",
+    "static/media/ger3.jpg": "/house_progect/static/media/ger3.0dd803b498205d99b384.jpg",
+    "static/media/ger5.jpg": "/house_progect/static/media/ger5.99220976cb2dc99a7050.jpg",
+    "static/media/france4.jpg": "/house_progect/static/media/france4.07f30832df3980f73f93.jpg",
+    "static/media/eng5.jpg": "/house_progect/static/media/eng5.ca0c275fc42340cc5f4a.jpg",
+    "static/media/eng2.jpg": "/house_progect/static/media/eng2.cd87c2d5d7f2a02f2179.jpg",
+    "static/media/eng4.jpg": "/house_progect/static/media/eng4.029ece3ccb8322c52161.jpg",
+    "static/media/ger4.jpg": "/house_progect/static/media/ger4.4a02bd8fdbfe2752b472.jpg",
+    "static/media/ger2.jpg": "/house_progect/static/media/ger2.1cdc8aa924d209037d92.jpg",
+    "static/media/ger1.jpg": "/house_progect/static/media/ger1.04ddcff2f4531357c64c.jpg",
+    "static/media/ger6.jpg": "/house_progect/static/media/ger6.25c6037d79fc58d41b58.jpg",
+    "static/media/eng6.jpg": "/house_progect/static/media/eng6.4c180fa9404f1f1f0dde.jpg",
+    "static/media/eng1.jpg": "/house_progect/static/media/eng1.e96872f84cd870b9e0ec.jpg",
+    "static/media/man1.png": "/house_progect/static/media/man1.8c45f9fc5775ab699cbe.png",
+    "static/media/man3.png": "/house_progect/static/media/man3.0dea9ef0d91866a7523a.png",
     "index.html": "/house_progect/index.html",
     "main.00a4faf8.css.map": "/house_progect/static/css/main.00a4faf8.css.map",
-    "main.c8ba8d01.js.map": "/house_progect/static/js/main.c8ba8d01.js.map"
+    "main.3caf493c.js.map": "/house_progect/static/js/main.3caf493c.js.map"
   },
   "entrypoints": [
     "static/css/main.00a4faf8.css",
-    "static/js/main.c8ba8d01.js"
+    "static/js/main.3caf493c.js"
   ]
 }
